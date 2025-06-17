@@ -1,0 +1,18 @@
+# OS
+.DS_Store/
+
+# IDE and Text Editor
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Logs
+logs/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
